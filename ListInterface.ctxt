@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ListInterface
+comment1.params=newEntry
+comment1.target=void\ add(java.lang.Object)
+comment1.text=\r\n\ Adds\ the\ specified\ entry\ to\ the\ end\ of\ this\ list.\r\n\ \r\n\ @param\ newEntry\ the\ entry\ to\ be\ added\ to\ this\ list\r\n
+comment2.params=givenPosition\ newEntry
+comment2.target=void\ add(int,\ java.lang.Object)
+comment2.text=\r\n\ Adds\ the\ specified\ entry\ at\ the\ position\ within\ the\ list.\r\n\ \r\n\ @param\ givenPosition\ the\ position\ at\ which\ the\ specified\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ entry\ is\ to\ be\ added\r\n\ @param\ newEntry\ the\ entry\ to\ be\ added\ to\ this\ list\r\n\ @throws\ IndexOutOfBoundsException\ if\ givenPosition\ is\ less\r\n\ \ \ \ \ \ than\ 1\ or\ greater\ than\ the\ number\ of\ entries\ plus\ 1\r\n
+numComments=3
